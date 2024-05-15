@@ -12,7 +12,7 @@ Your team: group number ❔
 
   - Student 2: Anass Bouatra, Anass6969
   
-  - Student 3: Abdeljalil FARID
+  - Student 3: Abdeljalil FARID, abdeljalilfarid
 
   - Student 4: Nabil BIAA
 
