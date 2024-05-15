@@ -12,9 +12,9 @@ Your team: group number ❔
 
   - Student 2: Anass Bouatra, Anass6969
   
-  - Student 3: ❔ (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
+  - Student 3: Abdeljalil FARID
 
-  - Student 4: ❔ (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
+  - Student 4: Nabil BIAA
 
 ## Getting Started
 
